@@ -1,10 +1,13 @@
 
 
-Brain Wave AI Chatbot & AI Services ui project
+# Brain Wave AI Chatbot & AI Services ui project
 
 Brain Wave AI Chatbot & AI Services is a modern web application built with React.js and Tailwind CSS UI framework. 
+
 This is my react js+tailwind ui project as beginner in react....
-Features
+
+# Features
+
 Interactive Chatbot: Engage with a sophisticated chatbot powered by AI technologies.
 Natural Language Processing: Understand and process natural language inputs for better user interactions.
 Machine Learning Integration: Benefit from machine learning algorithms for advanced AI capabilities.
@@ -14,9 +17,12 @@ Prerequisites
 Node.js
 npm or Yarn
 
-Acknowledgements
+# Acknowledgements
+
 React.js
+
 Tailwind CSS
+
 Brain Wave AI
 
 
